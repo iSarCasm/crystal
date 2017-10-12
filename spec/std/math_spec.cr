@@ -50,6 +50,10 @@ describe "Math" do
     it "sqrt for BigInt" do
       Math.sqrt(BigInt.new("1#{"0"*50}")).should eq(BigFloat.new("1#{"0"*25}"))
     end
+
+    it "sqrt for BigRational" do
+      Math.sqrt(BigRational.new(BigInt.new("1#{"0"*50}"), 1)).should eq(BigFloat.new("1#{"0"*25}"))
+    end
   end
 
   describe "Exponents" do
