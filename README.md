@@ -1,5 +1,5 @@
 # Crystal
-[![Latest Release Version](https://img.shields.io/badge/version-0.23.1-brightgreen.svg)
+[![Latest Release Version](https://img.shields.io/badge/version-0.23.1-brightgreen.svg)](https://github.com/crystal-lang/crystal/releases)
 [![Travis CI Build Status](https://travis-ci.org/crystal-lang/crystal.svg)](https://travis-ci.org/crystal-lang/crystal)
 [![CircleCI Build Status](https://circleci.com/gh/crystal-lang/crystal/tree/master.svg?style=shield)](https://circleci.com/gh/crystal-lang/crystal)
 [![Bountysource](https://api.bountysource.com/badge/team?team_id=89730&style=raised)](https://www.bountysource.com/teams/crystal-lang/fundraisers/702-crystal-language)
